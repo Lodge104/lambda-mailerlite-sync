@@ -1,0 +1,19 @@
+{
+  "name": "lambda-mailerlite-sync",
+  "version": "1.0.0",
+  "description": "Syncs membership data with MailerLite",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lodge104/lambda-mailerlite-sync.git"
+  },
+  "author": "Nicholas Anderson",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Lodge104/lambda-mailerlite-sync/issues"
+  },
+  "homepage": "https://github.com/Lodge104/lambda-mailerlite-sync#readme"
+}
